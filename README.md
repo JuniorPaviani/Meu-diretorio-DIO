@@ -1,2 +1,2 @@
-# Meu DIRERORIO do DIO para estudar Python
+# Meu DIRERORIO do DIO
 Repositório de testes de autenticações
